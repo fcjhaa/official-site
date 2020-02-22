@@ -1,5 +1,5 @@
 # fcjhaa-website
-
+[![CodeFactor](https://www.codefactor.io/repository/github/fcjhaa/official-site/badge)](https://www.codefactor.io/repository/github/fcjhaa/official-site)
 ## Project setup
 ```
 npm install
